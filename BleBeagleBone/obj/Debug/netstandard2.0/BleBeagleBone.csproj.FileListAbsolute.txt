@@ -1,0 +1,17 @@
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.csproj.CoreCompileInputs.cache
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.AssemblyInfoInputs.cache
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.AssemblyInfo.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\bin\Debug\netstandard2.0\BleBeagleBone.deps.json
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\bin\Debug\netstandard2.0\BleBeagleBone.dll
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\bin\Debug\netstandard2.0\BleBeagleBone.pdb
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.dll
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.pdb
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\Views\BluetoothAboutPage.xaml.g.cs
+C:\Andrew\XF\BleBeagleBone\BleBeagleBone\obj\Debug\netstandard2.0\BleBeagleBone.csprojAssemblyReference.cache
